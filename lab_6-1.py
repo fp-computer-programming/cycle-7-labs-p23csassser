@@ -4,7 +4,7 @@
 my_arr = [1,2,3,4,5] 
 
 # Print fourth figure in list
-print(my_arr[3])# 
+print(my_arr[3])
 
 #Find the length
 print(len(my_arr)) 
